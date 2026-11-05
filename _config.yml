@@ -1,0 +1,6 @@
+title: Mai Parkes
+description: My data journey
+url: "https://nova-ops.co.uk"
+baseurl: ""
+markdown: kramdown
+permalink: /journey/:title/
