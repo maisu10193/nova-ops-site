@@ -4,3 +4,5 @@ url: "https://nova-ops.co.uk"
 baseurl: ""
 markdown: kramdown
 permalink: /journey/:title/
+plugins:
+  - jekyll-sitemap
